@@ -1,4 +1,4 @@
-\# 🚀 Production-Grade DevSecOps \& Kubernetes Pipeline
+Production-Grade DevSecOps \& Kubernetes Pipeline
 
 
 
