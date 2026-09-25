@@ -1,1 +1,1 @@
-# DevSecOps K8s Pipeline 
+# devsecops-k8s-pipeline 
