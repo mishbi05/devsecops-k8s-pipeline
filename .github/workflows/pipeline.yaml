@@ -29,7 +29,9 @@ jobs:
         pip install -r app/requirements.txt
 
     - name: Run Pytest
-      run: pytest app/test_main.py -v
+      run: python -m pytest app/test_main.py -v
+      env:
+        PYTHONPATH: .
 
   security-and-build:
     name: Trivy Security Scan & Build
